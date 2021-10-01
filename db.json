@@ -1,1 +1,27 @@
-[{ "fips": "17195", "state": "IL", "name": "Whiteside" }, { "fips": "29013", "state": "MO", "name": "Bates" }, { "fips": "36123", "state": "NY", "name": "Yates" }, { "fips": "37073", "state": "NC", "name": "Gates" }, { "fips": "41017", "state": "OR", "name": "Deschutes" }]
+[
+   {
+      "fips":"17195",
+      "state":"IL",
+      "name":"Whiteside"
+   },
+   {
+      "fips":"29013",
+      "state":"MO",
+      "name":"Bates"
+   },
+   {
+      "fips":"36123",
+      "state":"NY",
+      "name":"Yates"
+   },
+   {
+      "fips":"37073",
+      "state":"NC",
+      "name":"Gates"
+   },
+   {
+      "fips":"41017",
+      "state":"OR",
+      "name":"Deschutes"
+   }
+]
